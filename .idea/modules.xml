@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java15.iml" filepath="$PROJECT_DIR$/Java15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PatternMatching/PatternMatching.iml" filepath="$PROJECT_DIR$/PatternMatching/PatternMatching.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Records/Records.iml" filepath="$PROJECT_DIR$/Records/Records.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SwitchExpressions/SwitchExpressions.iml" filepath="$PROJECT_DIR$/SwitchExpressions/SwitchExpressions.iml" />
+    </modules>
+  </component>
+</project>
