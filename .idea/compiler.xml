@@ -6,9 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Records" />
         <module name="PatternMatching" />
         <module name="SwitchExpressions" />
+        <module name="Records" />
+        <module name="TextBlocks" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -16,6 +17,7 @@
       <module name="PatternMatching" target="15" />
       <module name="Records" target="15" />
       <module name="SwitchExpressions" target="15" />
+      <module name="TextBlocks" target="15" />
     </bytecodeTargetLevel>
   </component>
 </project>

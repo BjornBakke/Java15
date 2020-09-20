@@ -12,6 +12,7 @@
         <module>Records</module>
         <module>PatternMatching</module>
         <module>SwitchExpressions</module>
+        <module>TextBlocks</module>
     </modules>
     <build>
         <plugins>

@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/PatternMatching/PatternMatching.iml" filepath="$PROJECT_DIR$/PatternMatching/PatternMatching.iml" />
       <module fileurl="file://$PROJECT_DIR$/Records/Records.iml" filepath="$PROJECT_DIR$/Records/Records.iml" />
       <module fileurl="file://$PROJECT_DIR$/SwitchExpressions/SwitchExpressions.iml" filepath="$PROJECT_DIR$/SwitchExpressions/SwitchExpressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TextBlocks/TextBlocks.iml" filepath="$PROJECT_DIR$/TextBlocks/TextBlocks.iml" />
     </modules>
   </component>
 </project>
